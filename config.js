@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Em à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+                Mà sao em cứ đi nhầm đường
+                Lạc vào tim anh lẻ loi
+                Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Chào mừng em đến với thế giới của anh',
     title:    'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc:     'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess:     'Anh biết mà 🥰 Yêu em nhiều 😘',
     messDesc: 'Mãi bên nhau em nhé! ^_^.',
     btnAccept:'Dạ Vâng anh <3',
-    messLink: 'https://m.me/letruongduyloc' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/letruongduyloc'
 }
